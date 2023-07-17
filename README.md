@@ -1,5 +1,5 @@
 # Demonstrations for the **[meta-aws](https://github.com/aws/meta-aws)** project
-
+Changed by Alina.
 [meta-aws](https://github.com/aws/meta-aws) is a [Yocto
 Project](https://www.yoctoproject.org/) Bitbake Metadata Layer. It
 accelerates building [Amazon Web Services](https://aws.amazon.com)
